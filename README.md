@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![Hany-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hany-Kim\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kan)](https://solved.ac/kan/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hany-Kim\&hide_progress=true)
-
+---
 <h3>티스토리 URL</h3>
 https://kansstory.tistory.com/
