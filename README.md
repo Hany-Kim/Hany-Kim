@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * 2016.03.02 ~ 2020.02.07 **에너지IT공학과** | 중퇴(편입)
 
 ### 🔭 I’m currently working on ...
-![Hany-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hany-Kim\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Hany-Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hany-Kim\&bg_color=30,980000,003399\&title_color=fff\&text_color=fff)
 
 ### 🔥 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kan)](https://solved.ac/kan/)
