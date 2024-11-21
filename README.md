@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ### 🔥 BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kan)](https://solved.ac/kan/)
 
+### Tistory
+[![Tistory](https://img.shields.io/badge/Tistory-000000?logo=Tistory&logoColor=FFFFFF)](https://kansstory.tistory.com/)
 ---
 
 <div align="center">
