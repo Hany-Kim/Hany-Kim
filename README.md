@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ✨ Skills
+
 <div align="center">
-<br>
+### ✨ Skills
 
 ##### Language
 
