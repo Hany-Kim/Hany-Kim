@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 ### ✏️ Edu
 * 2024.11.04 ~ ![sparta](https://img.shields.io/badge/sparta-E8344E) **Spring 백엔드 단기심화(스파르타코딩클럽)** | AI활용 백엔드심화(대용량 트래픽 처리) 과정
 * 2024.03.11 ~ 2024.08.30 ![kosa](https://img.shields.io/badge/kosa-195D8B) **빅데이터플랫폼기반 AI융합 서비스 개발자 양성과정**(한국소프트웨어산업협회) | AI&웹 트랙 수료
-  * ![TripFlow - LLM기반 여행일정 추천 서비스](https://github.com/orgs/KOSA-DDABONG/repositories)
+  * (최종프로젝트 최우수상) ![TripFlow - LLM기반 여행일정 추천 서비스](https://github.com/orgs/KOSA-DDABONG/repositories)
 * 2022.01.05 ~ 2022.12.30 ![SSAFY](https://img.shields.io/badge/SSAFY-1BB1E7) **삼성청년SW아카데미**(삼성전자 주식회사) | 임베디드&웹 트랙 수료
+  * (SSAFY 자율 프로젝트 우수상, SSAFY 자율 프로젝트 결선대회 우수상) ![싸륜안 - AR기반 SSAFY시설 소개 목적의 방탈출 게임 안드로이드 앱]()
+  * (SSAFY 특화 프로젝트 우수상) ![MAFYA - AI 영상처리기반 마스크&얼굴인식을 통한 출결관리프로그램]()
+  * ![술고래 = 설문조사&감정분석을 통한 주류추천 키오스크]()
 * 2021.03.17 ~ 2022.01.24 **학부연구생**(지도교수 연구실) | 통신공학 & 머신러닝 과제 수행
 * 2020.03.02 ~ 2022.02.11 **컴퓨터정보공학전공** | 학사 졸업
 * 2016.03.02 ~ 2020.02.07 **에너지IT공학과** | 중퇴(편입)
