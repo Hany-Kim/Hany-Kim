@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   * [싸륜안 - AR기반 SSAFY시설 소개 목적의 방탈출 게임 안드로이드 앱](https://github.com/Hany-Kim/ssaryunan/tree/main/7th_ssaryun-an-master)
     * SSAFY 자율 프로젝트 우수상
     * SSAFY 자율 프로젝트 결선대회 우수상
-  * [MAFYA - AI 영상처리기반 마스크&얼굴인식을 통한 출결관리프로그램]()
+  * [MAFYA - AI 영상처리기반 마스크&얼굴인식을 통한 출결관리프로그램](https://github.com/Hany-Kim/mafya)
     * SSAFY 특화 프로젝트 우수상
   * [술고래 - 설문조사&감정분석을 통한 주류추천 키오스크]()
 * 2021.03.17 ~ 2022.01.24 **학부연구생**(지도교수 연구실) | 통신공학 & 머신러닝 과제 수행
