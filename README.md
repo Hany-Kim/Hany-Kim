@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ---
 ### ✏️ Edu
 * 2024.11.04 ~ ![sparta](https://img.shields.io/badge/sparta-E8344E) **Spring 백엔드 단기심화(스파르타코딩클럽)** | AI활용 백엔드심화(대용량 트래픽 처리) 과정
+  * [일사천리 - 허브 간 물류 및 배송 관리 시스템](https://github.com/RUSH-1472/rush-logistic-system-2024)
 * 2024.03.11 ~ 2024.08.30 ![kosa](https://img.shields.io/badge/kosa-195D8B) **빅데이터플랫폼기반 AI융합 서비스 개발자 양성과정**(한국소프트웨어산업협회) | AI&웹 트랙 수료
   * [TripFlow - LLM기반 여행일정 추천 서비스](https://github.com/orgs/KOSA-DDABONG/repositories)
     * 최종프로젝트 최우수상
