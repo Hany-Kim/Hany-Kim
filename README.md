@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### ✏️ Edu
-* 2024.11.04 ~ 2025.01.27 ![sparta](https://img.shields.io/badge/sparta-E8344E) **Spring 백엔드 단기심화(스파르타코딩클럽)** | AI활용 백엔드심화(대용량 트래픽 처리) 과정
+* 2024.11.04 ~ 2025.01.27 ![sparta](https://img.shields.io/badge/sparta-E8344E) **단기심화 Java(스파르타코딩클럽)** | AI활용 백엔드심화(대용량 트래픽 처리) 과정
   * [Try-It - Kafka기반 대규모 트래픽 처리, 선착순 체험단 신청 플랫폼](https://github.com/HERE-TRILLIONAIRES/try-and-review)
   * [일사천리 - 허브 간 물류 및 배송 관리 시스템](https://github.com/RUSH-1472/rush-logistic-system-2024)
 * 2024.03.11 ~ 2024.08.30 ![kosa](https://img.shields.io/badge/kosa-195D8B) **빅데이터플랫폼기반 AI융합 서비스 개발자 양성과정**(한국소프트웨어산업협회) | AI&웹 트랙 수료
